@@ -1,0 +1,2 @@
+body{position:relative;background:url(images/1.jpg) no-repeat center;width:850px;height:558px;margin:100px auto}.box{position:absolute;left:50%;top:50%;-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%);background:rgba(217,217,217,0.9);width:600px;height:300px;color:#ffffff;line-height:300px;font-size:50px;text-align:center}.demo1 .box{background-clip:padding-box;border:20px solid rgba(255,255,255,0.6);font-size:34px}
+/*# sourceMappingURL=style.css.map */
